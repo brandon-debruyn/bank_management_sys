@@ -2,7 +2,7 @@
 Year 2 OOP Assignment in Python - TU Dublin
 Grade Achieved: 87%
 
-# PROBLEMS DESCRIPTION:
+# Problem Description:
 
 You are asked to develop an application to manage bank services. An account is a general
 account class that contains balance, deposit, transfer (send money to another account in
