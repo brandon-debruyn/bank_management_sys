@@ -5,8 +5,7 @@ Grade Achieved: 87%
 # Problem Description:
 
 You are asked to develop an application to manage bank services. An account is a general
-account class that contains balance, deposit, transfer (send money to another account in
-the bank) and withdrawal methods. Your bank should allow the creation of two bank
+account class that contains balance, deposit, transfer and withdrawal methods. Your bank should allow the creation of two bank
 accounts types. The two types of accounts should include:
 
  - Savings accounts: these only allow one withdrawal or one transfer per month, and might also be opened by teenagers from 14 years old.
